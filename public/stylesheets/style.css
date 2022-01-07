@@ -292,6 +292,12 @@ footer {
   width: auto;
 }
 
+#synapse-diagram {
+  height: auto;
+  max-width: 100%;
+  width: auto;
+}
+
 div > iframe {
   max-width: 100%;
 }
